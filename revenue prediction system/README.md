@@ -34,15 +34,3 @@ PORT=
 MONGO_URL=
 ```
 
-## Important Links
-
-- Client Side - [Click Here](https://finanseer-clone.vercel.app)
-- Server Side - [Click Here](https://finanseer-clone.onrender.com)
-
-# Author
-
-> Expert Full Stack Developer || Lead Generation Expert
-
-- Hasibul Islam
-  - `Linkedin` [hasibulislam999](https://www.linkedin.com/in/developer-hasibulislam)
-  - `WhatsApp` [+8801906315901](https://wa.me/01906315901)
